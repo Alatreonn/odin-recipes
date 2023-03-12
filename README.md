@@ -1,5 +1,4 @@
 # odin-recipes
-Tutorial for personal use
 For this project, I am about to implement my
 existing knowledge, as of now, to create a
 website for food recipes. Skill will come in time,
