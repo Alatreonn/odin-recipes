@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+    font-weight: bolder;
+}
